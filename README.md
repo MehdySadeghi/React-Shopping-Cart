@@ -8,7 +8,8 @@ This project was built as part of my React learning journey to practice managing
 
 ## Live Demo
 
-Coming soon
+https://react-shopping-sitee.netlify.app/
+Open with a VPN if you are in Iran
 
 ---
 
